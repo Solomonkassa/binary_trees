@@ -1,6 +1,6 @@
 # Binary Trees
 
-This repository contains an implementation of binary trees in various programming languages. Binary trees are fundamental data structures that are widely used in computer science and have numerous applications. This README provides an advanced overview of binary trees, their properties, common operations, and some additional topics related to binary trees.
+This repository contains an implementation of binary trees in C programming languages. Binary trees are fundamental data structures that are widely used in computer science and have numerous applications. This README provides an advanced overview of binary trees, their properties, common operations, and some additional topics related to binary trees.
 
 ## Table of Contents
 
