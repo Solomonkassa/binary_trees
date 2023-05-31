@@ -35,9 +35,13 @@ A binary tree is a hierarchical data structure in which each node has at most tw
 
 In a binary tree, each node contains a value and a reference to its left child and right child (or null if the child does not exist). The topmost node of the tree is called the root, and it is the starting point for accessing the entire tree. The nodes below the root are referred to as internal nodes, while the nodes with no children are called leaf nodes.
 
-  10
- /  \
-5    15
+```
+       10
+     /    \
+    5      15
+   /         \
+  2           7
+```
 
 ### Binary Tree Terminology
 
